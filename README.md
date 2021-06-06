@@ -1,0 +1,5 @@
+- Hi, I’m @Xu-Zijun
+- I’m interested in reddit and discord bots.
+- I’m currently learning javascript and python.
+- I’m looking to collaborate on controlling a subreddit.
+- I'm reachable by my reddit inbox.
